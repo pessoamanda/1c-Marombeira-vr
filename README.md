@@ -1,2 +1,2 @@
 # 1c-CalvosBarbearia-vr
-Amanda e Maria Thereza
+Amanda, Maria Thereza e João Pedro
