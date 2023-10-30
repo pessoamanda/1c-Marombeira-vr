@@ -33,6 +33,7 @@ nav a {
     color: black;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
 }
 
 #banner {
