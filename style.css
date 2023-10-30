@@ -13,6 +13,8 @@ body{
 #logo {
     width: 5%;
     height: 5%;
+    color: white;
+    border: 5 white;
 }
 
 .conteiner-pai {
